@@ -1,2 +1,6 @@
+<<<<<<< HEAD
+Gud Afternoon all
+=======
 Hello world!!!
 This is shreya!
+>>>>>>> 088acb4d95f3b8d1471aca270a1965c52d11ed5c
