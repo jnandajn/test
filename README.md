@@ -1,1 +1,1 @@
-This is a test project for UNEXT
+This is a session on git version control.
