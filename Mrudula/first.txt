@@ -1,2 +1,6 @@
-this is Mrudula
+<<<<<<< HEAD
+
+=======
+this is Mrudula12345
+>>>>>>> 6acfa2b9b99789510c535bc4eac91ed366781686
 i have created this file 
