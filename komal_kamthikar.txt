@@ -1,2 +1,3 @@
 Hello Github!
-hiiii......
+hi
+this is my file
