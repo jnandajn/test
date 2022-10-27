@@ -1,1 +1,2 @@
 hi this is ayushi 
+here we are learning git veriosn .
