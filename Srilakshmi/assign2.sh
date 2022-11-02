@@ -8,9 +8,7 @@ case "$permit" in
 	;;
 	"744")  chmod 744 $first
 	;;
-	"722") chmod 777 $first
-	;;
-	"711")  chmod 744 $first
+	"766") chmod 777 $first
 	;;
 esac
 
